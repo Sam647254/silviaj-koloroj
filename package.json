@@ -20,6 +20,11 @@
                 "label": "Silvia rubio",
                 "uiTheme": "vs-dark",
                 "path": "./themes/rubio-color-theme.json"
+            },
+            {
+                "label": "Silvia sukceno",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sukceno-color-theme.json"
             }
         ]
     }
